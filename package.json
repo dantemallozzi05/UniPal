@@ -1,0 +1,11 @@
+{
+  "name": "gamepal",
+  "version": "1.0.0",
+  "description": "ultimateGameCompanion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dante Mallozzi",
+  "license": "ISC"
+}
